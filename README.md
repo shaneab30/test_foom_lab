@@ -328,3 +328,6 @@ CREATE TABLE purchase_request_item (
 
 ## Note
 - The vendor that is required to be displayed in the Purchase Request page isn't available, because of unclear instructions in the task description. The database scheme in the didn't specify the creation of the vendor column. However this is easily fixable by adding a vendor column to the purchase request table.
+- For structured commits, can be seen in the individual git repo for backend and frontend
+- Backend Repo Link: https://github.com/shaneab30/backend
+- Frontend Repo Link: https://github.com/shaneab30/foomlab-frontend
